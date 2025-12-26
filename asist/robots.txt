@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /about/
+Sitemap: https://asist.edu.ph/sitemap.xml
